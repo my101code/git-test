@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Mi Página</title>
+    <title>La pagina test</title>
   </head>
   <body>
     <h1>Bienvenido a mi sitio</h1>
