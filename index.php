@@ -5,6 +5,6 @@
     <title>La pagina test</title>
   </head>
   <body>
-    <h1>Bienvenido a mi sitio</h1>
+    <h1 class="bg-white">Bienvenido a mi sitio</h1>
   </body>
 </html>
