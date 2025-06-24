@@ -13,5 +13,9 @@
           <button type="submit">Enviar</button>
         </form>
     </div>
+    <footer>
+        <p>© 2025 Mi Sitio</p>
+    </footer>
+
   </body>
 </html>
