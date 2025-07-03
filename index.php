@@ -14,7 +14,7 @@
         </form>
     </div>
     <footer>
-        <p>© 2025 Mi Sitio</p>
+        <p>© 2025 Mi Sitio y probado correctamente</p>
     </footer>
 
   </body>
