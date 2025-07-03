@@ -10,7 +10,7 @@
         <!-- formulario añadido -->
         <form action="/contactar">
           <input type="text" name="nombre" placeholder="Tu nombre" />
-          <button type="submit">Enviar forn mail</button>
+          <button type="submit">Enviar forn mail 2025</button>
         </form>
     </div>
     <footer>
