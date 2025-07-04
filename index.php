@@ -2,20 +2,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>La pagina test</title>
+    <title>khaddar</title>
+    <script src="https://cdn.tailwindcss.com"></script>
   </head>
-  <body>
-    <h1 class="bg-white">Bienvenido a mi sitio</h1>
-    <div>
-        <!-- formulario añadido -->
-        <form action="/contactar">
-          <input type="text" name="nombre" placeholder="Tu nombre" />
-          <button type="submit">Enviar forn mail 2025</button>
-        </form>
-    </div>
-    <footer>
-        <p>© 2025 Mi Sitio y probado correctamente</p>
-    </footer>
-
+  <body class="bg-slate-700 h-screen w-full">
+    <div class="grid justify-items-stretch h-full">
+      <h1 class="text-white font-bold justify-self-center">En proceso</h1>
+    </div>  
   </body>
 </html>
