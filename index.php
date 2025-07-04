@@ -7,7 +7,7 @@
   </head>
   <body class="bg-slate-700 h-screen w-full">
     <div class="grid justify-items-stretch h-full">
-      <h1 class="text-white font-bold justify-self-center">En proceso</h1>
+      <h1 class="text-white font-bold justify-self-center">En proceso 2025</h1>
     </div>  
   </body>
 </html>
